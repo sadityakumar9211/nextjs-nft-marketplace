@@ -24,9 +24,11 @@
 
 ### Deployed to the following URLs:
 
-nft-marketpalce-thegraph-sadityakumar9211.vercel.app  
-nft-marketpalce-thegraph-git-main-sadityakumar9211.vercel.app  
-nft-marketpalce-thegraph.vercel.app  
+[nft-marketpalce-thegraph-sadityakumar9211.vercel.app](nft-marketpalce-thegraph-sadityakumar9211.vercel.app)
+[nft-marketpalce-thegraph-git-main-sadityakumar9211.vercel.app](nft-marketpalce-thegraph-git-main-sadityakumar9211.vercel.app)  
+[nft-marketpalce-thegraph.vercel.app](nft-marketpalce-thegraph.vercel.app)
+
+
 
 
 
