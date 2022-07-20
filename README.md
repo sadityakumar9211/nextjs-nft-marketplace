@@ -24,6 +24,7 @@
 
 ### Deployed to the following URIs:
 - IPFS Hash: QmTahM2DWmLq67go9HqPXKSSUdgFTbvqUhErnVeC8r6o9s
+- [https://nft-marketplace-saditya9211.on.fleek.co/](https://nft-marketplace-saditya9211.on.fleek.co/)
 - [nft-marketpalce-thegraph-sadityakumar9211.vercel.app](https://nft-marketpalce-thegraph-sadityakumar9211.vercel.app)  
 - [nft-marketpalce-thegraph-git-main-sadityakumar9211.vercel.app](https://nft-marketpalce-thegraph-git-main-sadityakumar9211.vercel.app)    
 - [nft-marketpalce-thegraph.vercel.app](https://nft-marketpalce-thegraph.vercel.app)  
