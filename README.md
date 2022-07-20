@@ -3,10 +3,10 @@
 1. Homepage
     1. Show recently listen NFTs ✅
         1. If you own the NFT, you can update the listing do✅
-        2. If not, you can buy the listing
+        2. If not, you can buy the listing✅
 2. Sell Page
-    1. You can list your NFT on the marketplace
-    2. And withdraw proceeds
+    1. You can list your NFT on the marketplace ✅
+    2. And withdraw proceeds✅
     
  
 # Indexing the blockchain contents
@@ -22,8 +22,8 @@
 - Decentralised Network for storing the events data
 
 
-### Deployed to the following URLs:
-
+### Deployed to the following URIs:
+- IPFS Hash: QmTahM2DWmLq67go9HqPXKSSUdgFTbvqUhErnVeC8r6o9s
 - [nft-marketpalce-thegraph-sadityakumar9211.vercel.app](https://nft-marketpalce-thegraph-sadityakumar9211.vercel.app)  
 - [nft-marketpalce-thegraph-git-main-sadityakumar9211.vercel.app](https://nft-marketpalce-thegraph-git-main-sadityakumar9211.vercel.app)    
 - [nft-marketpalce-thegraph.vercel.app](https://nft-marketpalce-thegraph.vercel.app)  
