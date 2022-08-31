@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sadityakumar9211/nextjs-nft-marketplace">
-    <img src="public/logo.svg" alt="Logo" width="80" height="80">
+    <img width="51" alt="image" src="https://user-images.githubusercontent.com/78147198/187684294-f51b7ada-8fc1-4701-9e5e-3a3fed49c08c.png">
   </a>
 
   <h2 align="center">NFT Marketplace</h2>
@@ -36,7 +36,7 @@
     This repository is one of the three repositories which are part of NFT Marketplace Project.
     <br />
     <br>
-    <a href="https://github.com/sadityakumar9211/nextjs-nft-marketplace"><strong> <i>nextjs-nft-marketplace</i>: Hardhat Repository of NFT Marketplace Project»</strong></a>
+    <a href="https://github.com/sadityakumar9211/hardhat-nft-marketplace"><strong> <i>hardhat-nft-marketplace</i>: Hardhat Repository of NFT Marketplace Project»</strong></a>
     <br>
     <a href="https://github.com/sadityakumar9211/thegraph-nft-marketplace"><strong> <i>thegraph-nft-marketplace</i>: The Graph Repository of NFT Marketplace Project»</strong></a>
     <br>
@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img width="1278" alt="image" src="https://user-images.githubusercontent.com/78147198/184471278-42e393d0-db94-4577-bdc9-328510b777c0.png">
+<img width="1237" alt="image" src="https://user-images.githubusercontent.com/78147198/187685049-34863fa3-6ea8-46d5-a4d1-85284b4e22c1.png">
 
 **Blockchain** developed the idea of NFTs and introduced digital ownership of certain assets. This is because tokens are not exchangeable which makes it possible to establish property ownership in digital art. 
 
@@ -102,7 +102,7 @@ The following is a list of major frameworks, library and tools used for developi
 - [![tailwindcss][tailwindcss]][tailwind-url]
 - [![moralis][moralis]][moralis-url]
 - [![web3uikit][web3uikit]][web3uikit-url]
-
+- [![pinata][pinata]][pinata-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -259,7 +259,8 @@ Project Link: [https://github.com/sadityakumar9211/nextjs-nft-marketplace](https
 [moralis-url]: https://moralis.io
 [web3uikit]: https://img.shields.io/badge/web3uikit-72E6E0?style=for-the-badge&logoColor=6DE9DB
 [web3uikit-url]: https://web3ui.github.io/web3uikit/
-
+[pinata]: https://img.shields.io/badge/pinata-#A93FB5?style=for-the-badge&logoColor=6DE9DB
+[pinata-url]: https://pinata.cloud/
     
 
 ### Deployed to the following URIs:
