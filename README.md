@@ -259,7 +259,7 @@ Project Link: [https://github.com/sadityakumar9211/nextjs-nft-marketplace](https
 [moralis-url]: https://moralis.io
 [web3uikit]: https://img.shields.io/badge/web3uikit-72E6E0?style=for-the-badge&logoColor=6DE9DB
 [web3uikit-url]: https://web3ui.github.io/web3uikit/
-[pinata]: https://img.shields.io/badge/pinata-#A93FB5?style=for-the-badge&logoColor=6DE9DB
+[pinata]: https://img.shields.io/badge/pinata-A93FB5?style=for-the-badge&logoColor=6DE9DB
 [pinata-url]: https://pinata.cloud/
     
 
