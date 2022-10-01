@@ -134,6 +134,8 @@ cd nextjs-nft-marketplace
 yarn
 ```
 
+**Note:** If you locally want to run this repository, you have to follow the **Quickstart** and **Deployment** sections of all three repositories of this project. Also make sure that all three repositories are in the same directory when you clone them.   \\
+
 ### Optional Gitpod
 
 If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
