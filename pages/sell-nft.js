@@ -128,7 +128,7 @@ export default function Home() {
                 title="Sell your NFT!"
                 id="Main Form"
             />
-            <div>Withdraw {proceeds} proceeds</div>
+            <div>Withdraw {ethers.utils.formatEther(proceeds)} proceeds</div>
             {proceeds != "0" ? (
                 <Button
                     onClick={() => {
